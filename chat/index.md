@@ -1,4 +1,0 @@
-# Links
-
-* [Layer] (http://layer.com)
-	* Chat
