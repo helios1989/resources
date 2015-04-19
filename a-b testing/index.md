@@ -1,8 +1,23 @@
-# Links
+<html>
+<head>
+	<title>A/B Testing</title>
+</head>
+<body>
 
-* [Taplytics] (https://taplytics.com/)
-	* A/B Testing
+	<h1>Links</h1>
 
-* [Splitforce] (https://github.com/jakt/resources)
-	* Mobile A/B Testing
+	<ul>
 
+		<li>
+			<a href="https://taplytics.com/">Taplytics</a>
+		</li>
+
+		<li>
+			<a href="http://splitforce.com">Splitforce</a>
+			<p>mobile a/b testing</p>
+		</li>
+
+	</ul>
+
+</body>
+</html>
